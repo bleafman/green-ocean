@@ -1,7 +1,5 @@
 # CashOverflow
 
-![] IMAGE/GIF GOES HERE
-
 <img src="./cashoverflowIcon.png" width="100" />
 
 ## About
@@ -65,10 +63,6 @@ Our team worked to meet the expectations of our primary user by organizing deliv
 ### Minimum Viable Product (MVP)
 
 The MVP was asked to be an app where a user could see how much money they have currently, add transactions, and set a simple monthly budget.
-
-### How the App Works
-
-![](GIF OF APP IN ACTION)
 
 ### Workflow
 
