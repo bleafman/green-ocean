@@ -22,7 +22,7 @@
     "chai-http": "^4.3.0",
     "dotenv": "^8.0.0",
     "install": "^0.12.2",
-    "mocha": "^6.2.0",
+    "mocha": "^10.2.0",
     "supertest": "^4.0.2"
   }
 }
